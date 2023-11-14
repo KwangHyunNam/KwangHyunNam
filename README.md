@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요, 남광현입니다.
+
+좋은 개발자 분들과 원활히 협력하기 위해 프로그래밍 공부를 하고 있습니다.
+
+언더라이터와 함께 보험 산업을 혁신하고자 하시는 분들은 [모집 공고](https://underwriter.dooray.com/share/pages/jCgNx8ZvRF-T1tFsUbwTzg/3371314021556612474)를 확인해 주세요!
 
 <!--
 **KwangHyunNam/KwangHyunNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
